@@ -1,2 +1,5 @@
 반갑다
 t수정수정수정수정수정
+
+git config --global user.name "username"
+git config --global user.email "username@gmail.com"
