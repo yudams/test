@@ -1,1 +1,4 @@
 내가왜마케팅을하나
+
+git config --global user.name "username"
+git config --global user.email "username@gmail.com"
